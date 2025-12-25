@@ -1,0 +1,16 @@
+{
+  "sent_connections": {
+    "https://linkedin.com/in/demo-1": "2025-12-25T21:24:48.8311219+05:30",
+    "https://linkedin.com/in/demo-2": "2025-12-25T21:24:48.8311219+05:30",
+    "https://linkedin.com/in/demo-3": "2025-12-25T21:24:48.8316301+05:30",
+    "https://linkedin.com/in/demo-4": "2025-12-25T21:24:50.166282+05:30",
+    "https://linkedin.com/in/demo-5": "2025-12-25T21:24:50.166282+05:30"
+  },
+  "sent_messages": {
+    "https://linkedin.com/in/demo-1": "2025-12-25T21:24:51.2777969+05:30",
+    "https://linkedin.com/in/demo-2": "2025-12-25T21:24:52.2600517+05:30",
+    "https://linkedin.com/in/demo-3": "2025-12-25T21:24:53.5957255+05:30"
+  },
+  "daily_count": 3,
+  "last_reset": "2025-12-25"
+}
